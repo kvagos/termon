@@ -1,4 +1,4 @@
-mod win {
+pub mod win {
 
 extern crate windows_sys;
 use std::io::{self};
